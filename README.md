@@ -1,6 +1,6 @@
 # MITx 6.00.2x
 
-## Introduction to Computer Science and Programming Using Python
+**Introduction to Computer Science and Programming Using Python**
 
 I completed the MITx Computational Thinking using Python XSeries course on the edX verified track between January and May 2022. That course consisted of MITx 6.00.1x and MITx 6.00.2x.
 
@@ -10,11 +10,11 @@ I created this repository in August 2023 to revisit the key course and textbook 
 
 A separate repository will be created to log my progress through that course.
 
-## Textbook
+**Textbook**
 
 Introduction to Computation and Programming Using Python (With Application to Computational Modeling and Understanding Data), _Third Edition_ (2021), John V. Guttag.
 
-## Computational Thinking using Python XSeries
+**Computational Thinking using Python XSeries**
 
 1. 6.00.1x: Introduction to Computer Science and Programming Using Python
 
