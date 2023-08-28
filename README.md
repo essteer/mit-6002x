@@ -1,12 +1,10 @@
 # MITx 6.00.2x
 
----
-
 ## Introduction to Computer Science and Programming Using Python
 
 I completed the MITx Computational Thinking using Python XSeries course on the edX verified track between January and May 2022. That course consisted of MITx 6.00.1x and MITx 6.00.2x.
 
-I created this repository in August 2023 to revisit the course and textbook content, as a refresher prior to commencing a further course in September 2023:
+I created this repository in August 2023 to revisit the key course and textbook content, as a refresher prior to commencing a further course in September 2023:
 
 - 6.86x: Machine Learning with Python: from Linear Models to Deep Learning.
 
