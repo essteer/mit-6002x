@@ -1,6 +1,6 @@
 # Random walks
 
-## Structure of simulation
+**Structure of simulation**
 
 - Simulate one walk of k steps
 - Simulate n such walks

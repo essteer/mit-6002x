@@ -8,7 +8,7 @@
 
 - Two events are independent, if the outcome of one event has no influence on the outcome of the other.
 
-## Example - Real Madrid and Barca
+**Example - Real Madrid and Barca**
 
 1. If Real Madrid and Barca both have a 7/8 chance of winning matches, the chance of both winning their games is 7/8 \* 7/8 = 49/64.
 2. The probability of at least one losing is 1 - 49/64 = 15/64.

@@ -1,4 +1,6 @@
-# Search tree implementation - with brute force
+# Search Trees
+
+**Search tree implementation - with brute force**
 
 - Tree build from top down, starting with the root
 - First element is selected from still to be considered items
@@ -9,7 +11,7 @@
 
 - The process is then applied recursively to non-leaf children
 
-## Computational complexity
+**Computational complexity**
 
 - Time based on number of nodes generated
 - Number of levels is number of items to choose from
@@ -17,7 +19,7 @@
 
 - O(2^(i+1)) - exponential complexity for brute force algorithm
 
-# Memoization - dynamic programming
+**Memoization - dynamic programming**
 
 - Memoization is an efficient solution to the problem of exponential complexity for search trees
 - Do not repeat the same calculations
