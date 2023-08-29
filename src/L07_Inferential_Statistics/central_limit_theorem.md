@@ -13,3 +13,7 @@ CLT says that:
 **Why is the CLT useful?**
 
 The primary value of the CLT is that it allows us to compute confidence levels and intervals even when the underlying population distribution is not normal (see ch_19_423_central_limit_theorem.py for an example).
+
+- It doesn't matter what the shape of the distribution of values happens to be
+- If we are trying to estimate the mean of a population using sufficiently large samples
+- The CLT allows us to use the empirical rule when computing confidence intervals.
