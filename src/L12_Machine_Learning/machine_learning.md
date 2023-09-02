@@ -30,7 +30,7 @@ Generalisation:
 All ML methods require:
 
 - Representation of the features.
-- Distance metric for feature vectors.
+- Distance metric for feature vectors (where each feature is an element of a vector).
 - Objective function and constraints.
 - Optimisation method for learning the model.
 - Evaluation method, to determine how much confidence we can place in the outcome, but also to enable us to fine-tune parameters.

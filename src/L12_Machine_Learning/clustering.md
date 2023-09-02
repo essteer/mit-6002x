@@ -49,6 +49,12 @@ Only in the first iteration will the centroid represent actual data points: from
 `   if centroids don't change:`
 `       break`
 
+- The complexity of the algorithm is 0(k\*n\*d), where:
+
+  - k = number of clusters
+  - n = number of examples
+  - d = time required to compute the distance between a pair of examples
+
 - Beware that greedy algorithms can result in local optima far from the global optimum.
 - To mitigate this, run repeated k-means tests, and choose the one that does the best job of minimising the objective function.
 
@@ -60,3 +66,11 @@ Algorithm in pseudocode:
 `    if dissimilarity(C) < dissimilarity(best):`
 `        best = C`
 `return best`
+
+**Overfitting**
+
+Note that choosing the right value for k is analagous to choosing the right degree polynomial for a linear regression.
+
+By increasing k, we can decrease dissimilarity, but this is at the risk of overfitting.
+
+When k = number of examples to be clustered, dissimilarity = 0.
