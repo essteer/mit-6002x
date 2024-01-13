@@ -1,6 +1,6 @@
 # MITx 6.00.2x
 
-**Introduction to Computer Science and Programming Using Python**
+### Introduction to Computer Science and Programming Using Python
 
 I completed the MITx Computational Thinking using Python XSeries course on the edX verified track between January and May 2022. That course consisted of MITx 6.00.1x and MITx 6.00.2x.
 
@@ -8,13 +8,13 @@ I created this repository in August 2023 to revisit the key course and textbook 
 
 - 6.86x: Machine Learning with Python: from Linear Models to Deep Learning.
 
-A separate repository will be created to log my progress through that course.
+A separate repository for that course is located [here](https://github.com/essteer/mit-686x).
 
-**Textbook**
+### Textbook
 
 Introduction to Computation and Programming Using Python (With Application to Computational Modeling and Understanding Data), _Third Edition_ (2021), John V. Guttag.
 
-**Computational Thinking using Python XSeries**
+### Computational Thinking using Python XSeries
 
 1. 6.00.1x: Introduction to Computer Science and Programming Using Python
 
@@ -25,3 +25,9 @@ Introduction to Computation and Programming Using Python (With Application to Co
 - Enrolled: Mar 23, 2022 - 24 May 2022 | **Grade : 95.75%** | [Certificate](https://courses.edx.org/certificates/36e192924e324a7a87f40b52c186e945?_gl=1*15yotk7*_ga*MTc2ODAzMjczOS4xNjkyNTEzODMz*_ga_D3KS4KMDT0*MTY5MzE5MDg0NS41MC4xLjE2OTMxOTEzMjQuNjAuMC4w)
 
 3. Computational Thinking using Python XSeries: [Full Programme Certificate](https://credentials.edx.org/credentials/3c225e647ce84efe9b3a79122a075367/)
+
+### Machine Learning with Python: from Linear Models to Deep Learning
+
+4. 6.86x: Machine Learning with Python: from Linear Models to Deep Learning
+
+- Enrolled: 5 September 2023 - 20 December 2023 | **Grade : 89%** | [Certificate](https://courses.edx.org/certificates/79e97a2c2fc54702b029666e2e091ee1)
